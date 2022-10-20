@@ -35,11 +35,13 @@ namespace ConsoleApp101996
                 result.Append(" v 2 cetverti");
             }
             return result.ToString();
+            }
+            
         }
 
-
-
+        
+        }
     }
 }
-
+    
 

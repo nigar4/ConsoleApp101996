@@ -21,8 +21,8 @@ namespace ConsoleApp101996
        
     
     
-    
-    
+           
+          
     }
 }
 
